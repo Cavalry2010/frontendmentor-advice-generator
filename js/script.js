@@ -7,7 +7,7 @@ class AdviceApp {
   getAdviceBtn = document.querySelector(".get-advice-btn");
 
   constructor() {
-    // this.getAdvice();
+    this.getAdvice();
     this.getAdviceBtn.addEventListener("click", this.getAdvice.bind(this));
   }
 
