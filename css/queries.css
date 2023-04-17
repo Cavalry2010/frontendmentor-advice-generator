@@ -1,0 +1,30 @@
+@media (max-width: 26em) {
+  .advice-generator-box {
+    width: 34.5rem;
+    border-radius: 10px;
+  }
+
+  .advice-state {
+    padding: 4rem 2.4rem 6rem;
+  }
+
+  .advice-heading {
+    font-size: 1.1rem;
+    margin-bottom: 2.5rem;
+  }
+
+  .advice-text {
+    font-size: 2.4rem;
+    margin-bottom: 2.5rem;
+  }
+
+  .pattern-icon {
+    background-image: url("../images/pattern-divider-mobile.svg");
+    padding-bottom: 5.4%;
+  }
+
+  .get-advice-btn {
+    width: 6.4rem;
+    height: 6.4rem;
+  }
+}
